@@ -615,6 +615,12 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+#item1043323 {
+	width:595px !important;
+	height:842px !important;
+	background:#fff;
+}
+
 #item1005045 {
 	width:496px !important;
 	height:203px !important;
