@@ -422,7 +422,7 @@ body, #container-wrap { background:#ededed; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 .page-scale-wrap { width:595px; height:842px; background: #fff !important; }
 .paper-vertical { width:595px; height:100%; }
-.paper-horizontal { width:7030px; height:854px; }
+.paper-horizontal { width:6660px; height:854px; }
 @media all and (max-height:842px) {
 	.paper-horizontal { margin:0;top:0;}
 	#container > .page { margin:0 auto;}/*pos top for webkit+baker*/
@@ -551,14 +551,6 @@ body, #container-wrap { background:#ededed; }
 	-webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
-#item1065840 {
-	width:284px !important;
-	height:35px !important;
-	left:40px !important;
-	top:573px !important;
-	background:#fff;
-}
-
 #item1059203 {
 	width:388px !important;
 	height:1493px !important;
