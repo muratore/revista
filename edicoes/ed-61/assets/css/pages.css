@@ -419,7 +419,7 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 
 body, #container-wrap { background:#fff; }
 :-webkit-full-screen { background:#fff; }
-#loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
+#loadIndicator span:after { padding-left:1ex; content:'Sua revista Plenário...'; }
 .page-scale-wrap { width:595px; height:842px; background: #fff !important; }
 .paper-vertical { width:595px; height:100%; }
 .paper-horizontal { width:55080px; height:854px; }
@@ -615,6 +615,12 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+#item1106746 {
+	width:595px !important;
+	height:842px !important;
+	background:#fff;
+}
+
 #item1051556 {
 	width:86px !important;
 	height:112px !important;
