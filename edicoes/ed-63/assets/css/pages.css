@@ -444,7 +444,7 @@ body, #container-wrap { background:#fff; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 .page-scale-wrap { width:595px; height:842px; background: #fff !important; }
 .paper-vertical { width:595px; height:100%; }
-.paper-horizontal { width:46564px; height:854px; }
+.paper-horizontal { width:47817px; height:854px; }
 nav#page-nav { display:none; }
 html.nav-transition nav#page-nav { opacity:.3; pointer-events:none; }
 nav#page-nav > button {
@@ -625,24 +625,24 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 
 #item1132600 {
 	width:609px !important;
-	height:808px !important;
+	height:842px !important;
 	left:-14px !important;
-	top:-14px !important;
 	background:#fff;
 }
 
 #item1145613 {
-	width:496px !important;
-	height:167px !important;
+	width:516px !important;
+	height:173px !important;
 	left:43px !important;
-	top:72px !important;
+	top:91px !important;
 }
 
-#item1153772 {
-	width:339px !important;
-	height:712px !important;
-	left:219px !important;
-	top:71px !important;
+#item1158358 {
+	width:311px !important;
+	height:219px !important;
+	left:284px !important;
+	top:-14px !important;
+	background:#000;
 }
 
 #item1135304 {
@@ -775,9 +775,9 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 }
 
 #item1156966 {
-	width:338px !important;
-	height:799px !important;
-	left:271px !important;
+	width:331px !important;
+	height:870px !important;
+	left:278px !important;
 	top:-14px !important;
 	background:#e7d560;
 }
